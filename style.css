@@ -1,0 +1,300 @@
+
+/*3
+#count{
+    display: block;
+    display: flex;
+    justify-content: center;
+    font-size: 10em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#btns{
+    display: block;
+    display: flex;
+    justify-content: center;
+    
+}
+#increase{
+    margin: 2px;
+    background-color: rgb(160, 225, 255);
+    color: rgba(31, 24, 24, 0.397);
+    padding: 7px;
+    border-radius: 6px;
+    font-size: 20px;
+}
+#reset{
+    margin: 2px;
+    background-color: rgb(160, 225, 255);
+    color: rgba(31, 24, 24, 0.397);
+    padding: 7px;
+    border-radius: 6px;
+    font-size: 20px;
+}
+#decrease{
+    margin: 2px;
+    background-color: rgb(160, 225, 255);
+    color: rgba(31, 24, 24, 0.397);
+    padding: 7px;
+    border-radius: 6px;
+    font-size: 20px;
+}
+#increase:hover{
+    background-color: rgb(122, 172, 245);
+}
+#decrease:hover{
+    background-color: rgb(122, 172, 245);
+}
+#reset:hover{
+    background-color: rgb(122, 172, 245);
+}
+*/
+/* 4
+h2{
+    text-align: center;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+label{
+    align-self: center;
+}
+input{
+    align-self: center;
+}
+#but{
+    margin-top: 2px;
+    align-self: center;
+}
+*/
+/* 5
+#cont{
+    text-align: center;
+    margin-top: 70px;
+}
+#btn{
+    text-align: center;
+    padding: 32px;
+    font-size: 3em;
+    border-radius: 6px;
+    background-color: aqua;
+    cursor: pointer;
+    
+}
+#lable{
+    font-size: 3em;
+}
+*/
+/*  7
+#container{
+    
+    background-color: wheat;
+    display: inline-block;
+    text-align: center;
+    margin:100px 100px;
+    padding: 60px;
+    border-radius: 15px;
+    box-shadow:  4px 15px rgb(170, 173, 174);
+
+}
+#mysubmit{
+    padding: 14px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(236, 35, 35);
+    color: white;
+    margin-top: 15px;
+
+}
+#mysubmit:hover{
+    background-color: rgb(126, 0, 0);
+   
+}
+#myradio1{
+    font-weight: bold;
+    font-size: 60px;
+}
+#result{
+    font-size: 20px;
+}
+
+*/
+/*  Dice rolling Game ID 10
+ #ontainer{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+button{
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(87, 162, 224);
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(45, 153, 242) ;
+}
+input{
+    font-size: 2rem;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+}
+#diceresult{
+    margin: 25px;
+
+}
+#diceimages img{
+    width: 150px;
+    margin: 5px;
+}
+ */
+ /*  id 11 calculator project 
+ body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+ }
+ #calculator{
+    font-family:Arial, sans-serif ;
+    background-color: hsl(0, 0%, 15%);
+    border-radius: 15px;
+    max-width: 500px;
+    overflow: hidden;
+
+ }
+ #display{
+    width: 100%;
+    padding: 20px;
+    font-size: 5rem;
+    text-align: left;
+    border: none;
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+
+ }
+ #keys{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap:10px;
+    padding:25px ;
+ }
+ button{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: none;
+    background-color: hsl(0, 0%, 30%);
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+    cursor: pointer;
+ }
+ button:hover{
+    background-color: hsl(0, 0%, 40%);
+ }
+ button:active{
+    background-color: hsl(0, 0%, 50%);
+
+ }
+ .operators{
+    background-color: orange;
+ }
+ .operators:hover{
+    background-color: rgb(214, 139, 0);
+ }
+ .operators:active{
+    background-color: rgb(255, 166, 0);
+ }
+ */
+ /* id 12   digital clock programme 
+ body{
+    margin: 0;
+    background-image: url('background.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+ }
+ #clockcontaner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+ }
+ #clock{
+    font-family: monospace;
+    font-size: 6.5rem;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(242, 240, 96);
+    backdrop-filter: blur(3px);
+
+ } */
+ /*   
+ body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: hsla(0, 0%, 86%, 0.174);
+ }
+ #myh1{
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: hsla(0, 10%, 10%, 0.817);
+ }
+#container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 3px solid;
+  border-radius: 50px;
+}
+#display{
+    font-size: 6.5rem;
+    font-family:monospace;
+    margin:3px 20px;
+}
+
+#controls button{
+    padding: 10px 30px;
+    margin: 10px;
+    transform:0.5s ease;
+}
+#startbtn{
+    background-color: hsl(133, 83%, 46%);
+    font-size: 1.5rem;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+#startbtn:hover{
+    background-color: green;
+}
+#stopbtn{
+    background-color:hsla(0, 100%, 50%, 0.71);
+    font-size: 1.5rem;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+#stopbtn:hover{
+    background-color: rgb(168, 31, 31);
+}
+#resetbtn{
+    background-color: rgb(70, 119, 179);
+    font-size: 1.5rem;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+#resetbtn:hover{
+    background-color: rgb(40, 105, 140);
+} */
